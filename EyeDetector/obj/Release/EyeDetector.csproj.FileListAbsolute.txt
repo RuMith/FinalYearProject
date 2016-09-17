@@ -1,0 +1,36 @@
+G:\KDU\Semester 7\Project\Development 2\EyesDetector\EyesDetector\EyeDetector\bin\Release\haarcascade_eye.xml
+G:\KDU\Semester 7\Project\Development 2\EyesDetector\EyesDetector\EyeDetector\bin\Release\haarcascade_frontalface_alt_tree.xml
+G:\KDU\Semester 7\Project\Development 2\EyesDetector\EyesDetector\EyeDetector\bin\Release\EyeDetector.exe
+G:\KDU\Semester 7\Project\Development 2\EyesDetector\EyesDetector\EyeDetector\bin\Release\EyeDetector.pdb
+G:\KDU\Semester 7\Project\Development 2\EyesDetector\EyesDetector\EyeDetector\bin\Release\Emgu.CV.dll
+G:\KDU\Semester 7\Project\Development 2\EyesDetector\EyesDetector\EyeDetector\bin\Release\Emgu.CV.UI.dll
+G:\KDU\Semester 7\Project\Development 2\EyesDetector\EyesDetector\EyeDetector\bin\Release\Emgu.Util.dll
+G:\KDU\Semester 7\Project\Development 2\EyesDetector\EyesDetector\EyeDetector\bin\Release\ZedGraph.dll
+G:\KDU\Semester 7\Project\Development 2\EyesDetector\EyesDetector\EyeDetector\bin\Release\Emgu.CV.xml
+G:\KDU\Semester 7\Project\Development 2\EyesDetector\EyesDetector\EyeDetector\bin\Release\Emgu.CV.UI.xml
+G:\KDU\Semester 7\Project\Development 2\EyesDetector\EyesDetector\EyeDetector\bin\Release\Emgu.Util.xml
+G:\KDU\Semester 7\Project\Development 2\EyesDetector\EyesDetector\EyeDetector\obj\Release\EyeDetector.Form1.resources
+G:\KDU\Semester 7\Project\Development 2\EyesDetector\EyesDetector\EyeDetector\obj\Release\EyeDetector.Properties.Resources.resources
+G:\KDU\Semester 7\Project\Development 2\EyesDetector\EyesDetector\EyeDetector\obj\Release\EyeDetector.csproj.GenerateResource.Cache
+G:\KDU\Semester 7\Project\Development 2\EyesDetector\EyesDetector\EyeDetector\obj\Release\EyeDetector.exe
+G:\KDU\Semester 7\Project\Development 2\EyesDetector\EyesDetector\EyeDetector\obj\Release\EyeDetector.pdb
+G:\KDU\Semester 7\Project\Development 2\EyesDetector\EyesDetector\EyeDetector\obj\Release\EyeDetector.csprojResolveAssemblyReference.cache
+G:\FinalYearProject\EyeDetector\bin\Release\haarcascade_eye.xml
+G:\FinalYearProject\EyeDetector\bin\Release\haarcascade_frontalface_alt_tree.xml
+G:\FinalYearProject\EyeDetector\bin\Release\EyeDetector.exe
+G:\FinalYearProject\EyeDetector\bin\Release\EyeDetector.pdb
+G:\FinalYearProject\EyeDetector\bin\Release\EyeDetector.exe.CodeAnalysisLog.xml
+G:\FinalYearProject\EyeDetector\bin\Release\EyeDetector.exe.lastcodeanalysissucceeded
+G:\FinalYearProject\EyeDetector\bin\Release\Emgu.CV.dll
+G:\FinalYearProject\EyeDetector\bin\Release\Emgu.CV.UI.dll
+G:\FinalYearProject\EyeDetector\bin\Release\Emgu.Util.dll
+G:\FinalYearProject\EyeDetector\bin\Release\ZedGraph.dll
+G:\FinalYearProject\EyeDetector\bin\Release\Emgu.CV.xml
+G:\FinalYearProject\EyeDetector\bin\Release\Emgu.CV.UI.xml
+G:\FinalYearProject\EyeDetector\bin\Release\Emgu.Util.xml
+G:\FinalYearProject\EyeDetector\obj\Release\EyeDetector.csprojResolveAssemblyReference.cache
+G:\FinalYearProject\EyeDetector\obj\Release\EyeDetector.Form1.resources
+G:\FinalYearProject\EyeDetector\obj\Release\EyeDetector.Properties.Resources.resources
+G:\FinalYearProject\EyeDetector\obj\Release\EyeDetector.csproj.GenerateResource.Cache
+G:\FinalYearProject\EyeDetector\obj\Release\EyeDetector.exe
+G:\FinalYearProject\EyeDetector\obj\Release\EyeDetector.pdb
